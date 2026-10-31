@@ -4,22 +4,29 @@ A modern, simple aesthetic perfume website designed to showcase perfume recommen
 
 ## Technologies used 👾
 
--React
--Vite
--HTML5
--CSS3
--JavaScript
--Bootstrap 
--React Bootrsap
--React router
+•React
+
+•Vite
+
+•HTML5
+
+•CSS3
+
+•JavaScript
+
+•Bootstrap 
+
+•React Bootrsap
+
+•React router
 
 ## Features ✨
 
--🏠 **Homepage:** Introduction to the website and a contact section.
+🏠 **Homepage:** Introduction to the website and a contact section.
 
--🌷 **Perfume recommendation page:** A dedicated page for perfume recommendations for different people. 
+🌷 **Perfume recommendation page:** A dedicated page for perfume recommendations for different people. 
 
--💎 **Long-lasting page:** Tips for a long-lasting scent along with an embedded YouTube video as an example. 
+💎 **Long-lasting page:** Tips for a long-lasting scent along with an embedded YouTube video as an example. 
 
 -💐 **Different types of perfume page:** Explains the different types of fragrances such as body mists, eau de toilette, eau de parfum and perfume oil.
 
