@@ -30,5 +30,8 @@ A modern, simple aesthetic perfume website designed to showcase perfume recommen
 
 💐 **Different types of perfume page:** Explains the different types of fragrances such as body mists, eau de toilette, eau de parfum and perfume oil.
 
+# Website preview ✨
+![Perfume Website](public/Readme.picture.png)
+
 
 
