@@ -1,16 +1,24 @@
-# React + Vite
+# Perfume web 🌸
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, simple aesthetic perfume website designed to showcase perfume recommendations and tips through a User-friendly interface. The website features a carefully chosen color palette and is optimized for different screen sizes. 
 
-Currently, two official plugins are available:
+## Technologies used 👾
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+• React
+•Vite
+•HTML5
+•CSS3
+•JavaScript
+•Bootstrap 
+•React Bootrsap
+•React router
 
-## React Compiler
+## Features ✨
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🏠 Homepage: Introduction to the website and a contact section. 
+🌷 Perfume recommendation page: A dedicated page for perfume recommendations for different people. 
+💎 Long-lasting page: Tips for a long-lasting scent along with an embedded YouTube video as an example. 
+💐 Different types of perfume page: Explains the different types of fragrances such as body mists, eau de toilette, eau de parfum and    perfume oil.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
